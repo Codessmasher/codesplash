@@ -4,7 +4,7 @@
 ## Time - O(NLOGN)
 ## Space - O(N)   
 
-```
+```c++
 double fractionalKnapsack(int W, Item arr[], int n)
     {
         double ans = 0;
