@@ -4,7 +4,7 @@
 ## Time - O(N)
 ## Space - O(1)
 
-```java
+```c++
 int missingNumber(vector<int>& array, int n) {
         int ans=n;
         for(int i=0;i<n-1;i++){
