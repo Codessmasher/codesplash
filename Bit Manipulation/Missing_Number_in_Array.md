@@ -1,4 +1,4 @@
-(GFG Question LINK)[https://www.geeksforgeeks.org/problems/missing-number-in-array1416]
+[GFG Question LINK](https://www.geeksforgeeks.org/problems/missing-number-in-array1416)
 
 # Optimized Code
 ## Time - O(N)
