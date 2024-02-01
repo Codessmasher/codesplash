@@ -23,3 +23,4 @@ vector<int> dailyTemperatures(vector<int>& temperatures) {
         return ans;
 }
 ```
+[<a href="[{video-url}](https://www.youtube.com/watch?v=7St7pM9C5ok&t=1s)" title="Link Title"](https://www.youtube.com/watch?v=7St7pM9C5ok&t=1s)https://www.youtube.com/watch?v=7St7pM9C5ok&t=1s
