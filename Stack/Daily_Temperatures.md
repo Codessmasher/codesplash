@@ -22,6 +22,5 @@ vector<int> dailyTemperatures(vector<int>& temperatures) {
 
         return ans;
 }
-```
-[![Watch the video](https://img.youtube.com/vi/7St7pM9C5ok/hqdefault.jpg)](https://www.youtube.com/embed/7St7pM9C5ok)
- 
+``` 
+<video width="630" height="300" src="https://www.youtube.com/embed/7St7pM9C5ok"></video>
