@@ -4,7 +4,7 @@
 ## Time - O(N)
 ## Space - O(N)   
 
-```c
+```c++
 vector<int> dailyTemperatures(vector<int>& temperatures) {
         int s=temperatures.size();
         vector<int> ans(s,0);
