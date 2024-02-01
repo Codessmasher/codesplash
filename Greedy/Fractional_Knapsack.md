@@ -2,7 +2,7 @@
 
 # Optimized Code
 ## Time - O(NLOGN)
-## Space - O(1)
+## Space - O(N)   
 
 ```
 double fractionalKnapsack(int W, Item arr[], int n)
